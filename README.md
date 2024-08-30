@@ -26,8 +26,8 @@ Support for adding middleware has also been incorporated in the `net/http` packa
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/go-http-server-example.git
-   cd go-http-server-example
+   git clone https://github.com/ashprao/newgohttp.git
+   cd newgohttp
    ```
 
 2. Run the server:
